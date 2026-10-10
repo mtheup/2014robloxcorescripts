@@ -1,4 +1,1 @@
-Core-Scripts
-============
-
-All of ROBLOX's Core Scripts. These control in-game UI among other things.
+This is the April 2014 Roblox Corescripts!
